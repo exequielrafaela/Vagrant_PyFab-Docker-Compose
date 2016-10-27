@@ -1,7 +1,7 @@
-# Vagrant_PyFab-Docker
-*_Basic Fabric implementation usign Vagrant to deploy a VM equiped with a Docker Toolbox in place Docker Engine + Docker Compose + Docker Machine._*
+# Vagrant_PyFab-Docker-Compose
+*_Basic Fabric implementation usign Vagrant to deploy a VM equiped with a Docker Toolbox in place Docker Engine + Docker Compose + Docker Machine and deploying a LEMP stack using docker-compose._*
 
-*In this repo you'll find the Vagrant file and its python fabric provisioning file.*
+*In this repo you'll find the Vagrant file and its python fabric provisioning and docker-compose.yml files.*
 
 <p align="center">
   <b>Some Related Links:</b><br>
@@ -14,8 +14,6 @@
   <img src="https://github.com/exequielrafaela/Vagrant_PyFab-Docker/blob/master/Figures/Docker-logo-and-type.png" img> 
 </p>
 
-Execution example: 
-	
-	#pending
+Also refer for the standard vagrant docker provision and docker-compose plugin provision in the this repo: https://github.com/exequielrafaela/Vagrant_Docker-LocalDev for a better understanding
 
 
