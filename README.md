@@ -14,6 +14,6 @@
   <img src="https://github.com/exequielrafaela/Vagrant_PyFab-Docker/blob/master/Figures/Docker-logo-and-type.png" img> 
 </p>
 
-Also refer for the standard vagrant docker provision and docker-compose plugin provision in the this repo: https://github.com/exequielrafaela/Vagrant_Docker-LocalDev for a better understanding
+Also refer for the standard vagrant docker provision and docker-compose plugin provision in the this repo: https://github.com/exequielrafaela/Vagrant_Docker-LocalDev for a better understanding. What we have add here is the provisioning of this docker modules with python.
 
 
